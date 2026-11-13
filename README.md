@@ -35,10 +35,10 @@ Unlike hand-centric approaches that treat each hand independently, our method re
 | Resource     | Link                                                | Status      |
 | ------------ | --------------------------------------------------- | ----------- |
 | Project page | `https://LGECTO-AIL-VIL.github.io/SingleQuery-BHOI/`         | Available   |
-| Paper        | Coming soon                                         | Coming soon |
-| Code         | Coming soon                                         | Coming soon |
+| Paper        | `https://eccv.ecva.net/virtual/2026/poster/4276`    | Available   |
+| Code         | `https://github.com/LGECTO-AIL-VIL/SingleQuery-BHOI-Code` | Available   |
 | Dataset      | `https://github.com/LGECTO-AIL-VIL/SingleQuery-BHOI-Dataset` | Available   |
-| arXiv        | Coming soon                                         | Coming soon |
+| arXiv        | `https://arxiv.org/abs/2609.12155`                  | Available   |
 
 ## Dataset
 
@@ -92,7 +92,7 @@ If you find this work useful, please cite:
 ```bibtex
 @inproceedings{kim2026singlequery,
   title     = {Single-Query Person-Centric Bimanual Hand-Object Interaction Detection},
-  author    = {Jonghyun Kim and Junho Roh and Yubin Yoon and Jaechul Kim and Jungho Lee and Hyotae Lee and Jongkuk Park and Taehwan Hwang},
+  author    = {Jonghyun Kim and Junho Roh and Yubin Yoon and Hyotae Lee and Jongkuk Park and Taehwan Hwang and Jaechul Kim and Jungho Lee},
   booktitle = {European Conference on Computer Vision},
   year      = {2026}
 }
